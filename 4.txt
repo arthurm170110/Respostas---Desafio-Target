@@ -1,0 +1,3 @@
+Primeiramente deixaria ligaria o primeiro interruptor por alguns minutos, depois de certo tempo desligaria esse primeiro interruptor e ligaria o segundo e então iria para a sala das lâmpadas,
+a lâmpada acessa seria a lâmpada acionada pelo segundo interruptor e verificaria as outras lâmpadas, a que estivesse quente seria a que foi acionada pelo primeiro interruptor, voltaria para a sala
+dos interruptores e acionaria o último interruptor e verificaria se a lâmpada que falta corresponde a ele. 
